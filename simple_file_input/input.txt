@@ -1,5 +1,0 @@
-Cplusplus is a programming language.
-Python is another programming language.
-What is the difference between them?
-
-You can ask ChatGPT to get the knowledge.

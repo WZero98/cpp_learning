@@ -1,4 +1,0 @@
-The name of automobile: no
-The model year of automobile: 2025
-The original asking price: 10.00
-Now price: 9.13
