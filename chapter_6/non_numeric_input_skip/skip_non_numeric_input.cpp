@@ -23,7 +23,10 @@ int main()
             cin.clear();  // reset input
             cout << "Please enter number: \n";
             while (cin.get() != '\n')  // 输入非数字后，获取字符，直到当前的非数字输入读取完毕
-                continue;  // 如果输入的非数字里没有换行符
+                {
+                    cout << cin.get();
+                    continue;
+                }  // 如果输入的非数字里没有换行符
         }
     }
     cin.get();
