@@ -31,3 +31,7 @@
 *.out
 *.app
 .vscode/
+
+# binary files
+*.ilk
+*.pdb
